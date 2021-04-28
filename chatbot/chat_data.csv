@@ -1,0 +1,27 @@
+,inputs,tags
+0,hi,greeting
+1,how are you,greeting
+2,is anyone there,greeting
+3,hello,greeting
+4,good day,greeting
+5,whats up,greeting
+6,cya,goodbye
+7,see you later,goodbye
+8,goodbye,goodbye
+9,i am leaving,goodbye
+10,have a good day,goodbye
+11,how old,age
+12,how old is tim,age
+13,what is your age,age
+14,how old are you,age
+15,age,age
+16,what is your name,name
+17,what should i call you,name
+18,whats your name,name
+19,id like to buy something,shop
+20,whats on the menu,shop
+21,what do you reccommend,shop
+22,could i get something to eat,shop
+23,when are you guys open,hours
+24,what are your hours,hours
+25,hours of operation,hours
